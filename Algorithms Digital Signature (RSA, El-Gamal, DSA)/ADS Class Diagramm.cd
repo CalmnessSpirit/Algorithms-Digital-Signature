@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.DSA">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <Members>
+      <Field Name="BCheck" Hidden="true" />
+      <Field Name="BFile" Hidden="true" />
+      <Field Name="BSign" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="DSA" Hidden="true" />
+      <Method Name="DSA_Load" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="rand" Hidden="true" />
+      <Field Name="textBoxCheck" Hidden="true" />
+      <Field Name="textBoxDS" Hidden="true" />
+      <Field Name="textBoxG" Hidden="true" />
+      <Field Name="textBoxHash" Hidden="true" />
+      <Field Name="textBoxM" Hidden="true" />
+      <Field Name="textBoxP" Hidden="true" />
+      <Field Name="textBoxQ" Hidden="true" />
+      <Field Name="textBoxX" Hidden="true" />
+      <Field Name="textBoxY" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAACIAAJACAAiAARACAAgwIMAIoOFhYQAAgAE=</HashCode>
+      <FileName>DSA\DSA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.ElGamal">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <Members>
+      <Field Name="BCheck" Hidden="true" />
+      <Field Name="BFile" Hidden="true" />
+      <Field Name="BSign" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="ElGamal" Hidden="true" />
+      <Method Name="ElGamal_Load" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="md5" Hidden="true" />
+      <Field Name="rand" Hidden="true" />
+      <Field Name="textBoxCheck" Hidden="true" />
+      <Field Name="textBoxDS" Hidden="true" />
+      <Field Name="textBoxHash" Hidden="true" />
+      <Field Name="textBoxM" Hidden="true" />
+      <Field Name="txtPrivateKey" Hidden="true" />
+      <Field Name="txtPublicG" Hidden="true" />
+      <Field Name="txtPublicKey" Hidden="true" />
+      <Field Name="txtPublicP" Hidden="true" />
+      <Field Name="x_sign_alg" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAIABQCAAgJACBFCAAQYCABggIMAQICEBQQggADQ=</HashCode>
+      <FileName>ElGamal\ElGamal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.MainForm">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <Members>
+      <Field Name="buttonDSA" Hidden="true" />
+      <Field Name="buttonElGamale" Hidden="true" />
+      <Field Name="buttonRSA" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="splitter1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACAAAAgACCAAAAAAAACAAIQCACCAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.RSA">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <Members>
+      <Field Name="characters" Hidden="true" />
+      <Field Name="checkButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="fileButton" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Method Name="RSA" Hidden="true" />
+      <Method Name="RSA_Load" Hidden="true" />
+      <Field Name="signButton" Hidden="true" />
+      <Field Name="textBoxCheck" Hidden="true" />
+      <Field Name="textBoxDS" Hidden="true" />
+      <Field Name="textBoxHash" Hidden="true" />
+      <Field Name="textBoxM" Hidden="true" />
+      <Field Name="txtD" Hidden="true" />
+      <Field Name="txtN" Hidden="true" />
+      <Field Name="txtP" Hidden="true" />
+      <Field Name="txtQ" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IgAAAAAAADACABACBQCABQACAEABAOAMNmEmwEAAASA=</HashCode>
+      <FileName>RSA\RSA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElgamalEncryption.Algorithm.BigInteger" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECMIEggADQAAAE4AWLp4iCAkIAAJICYgQSAAAAJyA=</HashCode>
+      <FileName>ElGamal\Algorithm\BigInteger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElgamalEncryption.Algorithm.ElGamal">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElGamal\Algorithm\ElGamal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElgamalEncryption.Algorithm.ElGamalManaged">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAhAAACCCAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElGamal\Algorithm\ElGamalManaged.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElgamalEncryption.Algorithm.ElGamalSignature">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElGamal\Algorithm\ElGamalSignature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ElgamalEncryption.Algorithm.ElGamalKeyStruct">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAYAA=</HashCode>
+      <FileName>ElGamal\Algorithm\ElGamalKeyStruct.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

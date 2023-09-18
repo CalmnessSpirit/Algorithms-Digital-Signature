@@ -1,0 +1,84 @@
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe.config
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.MainForm.resources
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.Properties.Resources.resources
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.RSA.resources
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.DSA.resources
+C:\Users\Artem\Desktop\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.ElGamal.resources
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe.config
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.AssemblyReference.cache
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.SuggestedBindingRedirects.cache
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.DSA.resources
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.ElGamal.resources
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.MainForm.resources
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.Properties.Resources.resources
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.RSA.resources
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.GenerateResource.cache
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.CoreCompileInputs.cache
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+D:\362\For KURS v1.5\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe.config
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.DSA.resources
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.ElGamal.resources
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.MainForm.resources
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.Properties.Resources.resources
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.RSA.resources
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Artem\Desktop\For KURS v1.6\For KURS\Составные части Курсовой\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe.config
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.AssemblyReference.cache
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.SuggestedBindingRedirects.cache
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.DSA.resources
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.ElGamal.resources
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.MainForm.resources
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.Properties.Resources.resources
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.RSA.resources
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.GenerateResource.cache
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.CoreCompileInputs.cache
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Win1\Desktop\Курсовая\For KURS v1.7\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe.config
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.DSA.resources
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.ElGamal.resources
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.MainForm.resources
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.Properties.Resources.resources
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.RSA.resources
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Artem\Desktop\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe.config
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\bin\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.AssemblyReference.cache
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.SuggestedBindingRedirects.cache
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.DSA.resources
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.ElGamal.resources
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.MainForm.resources
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.Properties.Resources.resources
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms_Digital_Signature__RSA__El_Gamal__DSA_.RSA.resources
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.GenerateResource.cache
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).csproj.CoreCompileInputs.cache
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).exe
+C:\Users\Win1\Desktop\Курсовая работа\Курсовой проект\Курсовой проект\Algorithms Digital Signature (RSA, El-Gamal, DSA)\obj\Debug\Algorithms Digital Signature (RSA, El-Gamal, DSA).pdb
